@@ -1,0 +1,1 @@
+The provided code creates a simple web application that allows users to enter student names and grades, calculate the average grade, store the data in a database, and then display the stored data in a table. It utilizes PHP for backend processing, MySQL for data storage, and HTML/CSS for frontend presentation
